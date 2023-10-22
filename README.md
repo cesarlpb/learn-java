@@ -10,6 +10,9 @@ Repositorio para aprender Java
 - [Java en W3schools](https://www.w3schools.com/java/default.asp)
 
 ## Vídeos Recomendados
-- [![ChatGPT4V](captura.png)](https://www.youtube.com/watch?v=mu0pCB6ZgWI "Análisis de GPT-4V | ¡La VISIÓN ya ha llegado a ChatGPT!")
-
+### ¡La VISIÓN ya ha llegado a ChatGPT!
+[![ChatGPT4V](captura.png)](https://www.youtube.com/watch?v=mu0pCB6ZgWI "Análisis de GPT-4V | ¡La VISIÓN ya ha llegado a ChatGPT!")
+### Curso de Java desde 0 - by pildorasinformaticas en YT
+280 vídeos cortos sobre Java en lista de reproducción:
+[![Lista de Java](captura2.png)]([https://www.youtube.com/watch?v=mu0pCB6ZgWI](https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&ab_channel=pildorasinformaticas)https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&ab_channel=pildorasinformaticas "Curso de Java desde 0 - by pildorasinformaticas")
 
