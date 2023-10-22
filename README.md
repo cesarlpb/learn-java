@@ -10,6 +10,6 @@ Repositorio para aprender Java
 - [Java en W3schools](https://www.w3schools.com/java/default.asp)
 
 ## Vídeos Recomendados
-- [![ChatGPT4V](https://github.com/cesarlpb/learn-java/assets/25636436/8b8e385b-fc2c-45c0-a530-29fd16e56451.png)](https://www.youtube.com/watch?v=mu0pCB6ZgWI "Análisis de GPT-4V | ¡La VISIÓN ya ha llegado a ChatGPT!")
+- [![ChatGPT4V](captura.png)](https://www.youtube.com/watch?v=mu0pCB6ZgWI "Análisis de GPT-4V | ¡La VISIÓN ya ha llegado a ChatGPT!")
 
 
