@@ -13,6 +13,7 @@ Repositorio para aprender Java
 ### ¡La VISIÓN ya ha llegado a ChatGPT!
 [![ChatGPT4V](captura.png)](https://www.youtube.com/watch?v=mu0pCB6ZgWI "Análisis de GPT-4V | ¡La VISIÓN ya ha llegado a ChatGPT!")
 ### Curso de Java desde 0 - by pildorasinformaticas en YT
+**Nota:** aunque sea una lista actualizada al año pasado, sigue siendo válido en gran medida *quitando la parte de applets que ya no se usan*.
 280 vídeos cortos sobre Java en lista de reproducción:
 [![Lista de Java](captura2.png)]([https://www.youtube.com/watch?v=mu0pCB6ZgWI](https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&ab_channel=pildorasinformaticas)https://www.youtube.com/watch?v=U709qY6S9rA&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&ab_channel=pildorasinformaticas "Curso de Java desde 0 - by pildorasinformaticas")
 
