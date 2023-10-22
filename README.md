@@ -8,3 +8,6 @@ Repositorio para aprender Java
 - [VS Code](https://code.visualstudio.com/download)
 
 - [Java en W3schools](https://www.w3schools.com/java/default.asp)
+
+## Vídeos Recomendados
+- [ChatGPT4V](https://www.youtube.com/watch?v=mu0pCB6ZgWI)
