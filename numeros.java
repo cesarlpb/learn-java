@@ -6,6 +6,9 @@ public class numeros {
         System.out.println(1 - 2); // -1
         System.out.println(1 * 2); // 2
         System.out.println(1 / 2); // 0.5
-        
+        /* 
+         * Esto es un comentario 
+         * de varias líneas y no se ejecuta
+        */
       }
 }
