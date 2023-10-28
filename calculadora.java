@@ -9,8 +9,11 @@ public class calculadora {
     String b = scanner.nextLine();
     int num1 = Integer.valueOf(a);
     int num2 = Integer.valueOf(b);
-    System.out.print("Resultado:");
-    System.out.println(num1 + num2);
+    System.out.println("Resultados:");
+    System.out.println("Suma: " + (num1 + num2));
+    System.out.println("Resta: " + (num1 - num2));
+    System.out.println("Producto: " + (num1 * num2));
+    System.out.println("División: " + (num1 / num2));
     scanner.close();
   }
 }
