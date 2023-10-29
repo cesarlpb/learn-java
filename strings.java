@@ -10,5 +10,35 @@ public class strings {
 
         String saludo = "Bienvenido, Sr. Anderson";
         System.out.println("Sr. aparece en la posición: " + saludo.indexOf("B")); // Empieza a contar en CERO <- ojo
+
+        System.out.println("Concatenación:");
+        String texto1 = "Hola,";
+        String texto2 = "bienvenid@";
+        // Concatenamos con +
+        System.out.println(texto1 + texto2); // Sin espacio
+        System.out.println(texto1 + " " + texto2); // Con espacios
+
+        // Usamos concat()
+        System.out.println(texto1.concat(texto2)); // Sin espacios
+        System.out.println(texto1.concat(" ").concat(texto2)); // Con espacios
+
+        // Fuente: https://www.delftstack.com/es/howto/java/java-string-interpolation
+
+        // Usamos format()
+        String nombre = "César";
+        String saludo2 = "Buenos";
+        String mensaje = String.format("%s días, %s. ¡Es un día excelente!", saludo2, nombre);
+        System.out.println(mensaje);
+
+        // Usamos formatted:
+        String miSaludo = "Buenas";
+        String datos[] = {
+            miSaludo, 
+            "César", 
+            "excelente"
+        };
+        String mensaje2 = "%s, %s. Hoy es un %s día.".formatted(datos);
+        System.out.println(mensaje2);
+
     }
 }
