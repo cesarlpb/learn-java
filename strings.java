@@ -46,5 +46,16 @@ public class strings {
         // Recomendación:
         int resultado = 2 + 3;
         System.out.println("Resultado: " + resultado);
+
+        // Caracteres especiales:
+        String miTexto = "Esto es un \"\"texto\"\" sobre el texto con \nsalto \n\nde \tlínea y tabulador";
+        System.out.println(miTexto);
+
+        // Ejemplo con \t
+        System.out.println("Ejemplo con \\t:");
+        int suma = 2 + 3;
+        int resta = 3 - 2;
+        System.out.println("Suma:\t\t" + suma);
+        System.out.println("Diferencia:\t" + resta);
     }
 }
