@@ -40,5 +40,11 @@ public class strings {
         String mensaje2 = "%s, %s. Hoy es un %s día.".formatted(datos);
         System.out.println(mensaje2);
 
+        // Operador + con números y texto
+        System.out.println("Suma: " + 2 + 3); // Suma: 23
+        System.out.println("Suma: " + (2 + 3)); // Suma: 5
+        // Recomendación:
+        int resultado = 2 + 3;
+        System.out.println("Resultado: " + resultado);
     }
 }
