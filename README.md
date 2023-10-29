@@ -19,3 +19,12 @@ Repositorio para aprender Java
 280 vídeos cortos sobre Java en lista de reproducción:
 [![Lista de Java](captura2.png)](https://youtu.be/U709qY6S9rA?si=RyuySBmg9on3_Qyo "Curso de Java desde 0 - by pildorasinformaticas")
 
+## Ejercicios
+
+- https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-basicos-java/
+- https://puntocomnoesunlenguaje.blogspot.com/p/ejercicios.html
+- En vídeo: https://www.youtube.com/watch?v=dGw8A4wuTHA&list=PLQxX2eiEaqbz1XaUb1s0iQdd5ijpIoc1O&index=1&ab_channel=TodoCode
+- De un libro: https://github.com/LuisJoseSanchez/aprende-java-con-ejercicios/tree/master
+- https://manolohidalgo.com/ejercicios-bucles-en-java/
+- Libro en PDF: http://www.fadmon.unal.edu.co/fileadmin/user_upload/investigacion/centro_editorial/libros/ejercicios%20de%20programacion.pdf
+
