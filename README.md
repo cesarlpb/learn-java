@@ -28,3 +28,5 @@ Repositorio para aprender Java
 - https://manolohidalgo.com/ejercicios-bucles-en-java/
 - Libro en PDF: http://www.fadmon.unal.edu.co/fileadmin/user_upload/investigacion/centro_editorial/libros/ejercicios%20de%20programacion.pdf
 
+- Examen: https://docs.google.com/document/d/1ZA_NPk0RH_5ZNo3h2wY9c14b31vNAYBc/edit?usp=sharing&ouid=112144186571089680665&rtpof=true&sd=true
+
