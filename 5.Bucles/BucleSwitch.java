@@ -1,6 +1,10 @@
+import java.util.Scanner;
+
 public class BucleSwitch {
     public static void main(String[] args) {
-    int dia = 6;
+    Scanner scanner = new Scanner(System.in);
+    System.out.println("Introduce un día de la semana (1 a 7):");
+    int dia = scanner.nextInt();
     switch (dia) {
     case 1:
         System.out.println("Lunes");
@@ -26,5 +30,6 @@ public class BucleSwitch {
     default:
         System.out.println("Ese valor no es un día de la semana");
         }
+    scanner.close();
     }
 }
