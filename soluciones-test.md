@@ -47,7 +47,7 @@
     - La estructura condicional `switch` se utiliza cuando se desea seleccionar entre múltiples opciones.
 
 17. Respuesta correcta: a) ==
-    - El operador `==` compara igualdad en Java y también verifica el tipo de dato.
+    - El operador `==` compara igualdad en Java y también verifica el tipo de dato. Se puede entender que `!=` comprueba desigualdad.
 
 18. Respuesta correcta: a) +
     - El operador `+` se utiliza para concatenar cadenas en Java.
