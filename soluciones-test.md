@@ -4,8 +4,8 @@
 2. Respuesta correcta: a) 8
    - La suma de 5 y 3 es 8, y eso es lo que se imprime.
 
-3. Respuesta correcta: b) for
-   - El bucle `for` se utiliza comúnmente para recorrer arrays en Java.
+3. Respuesta correcta: b) for o a) while
+   - El bucle `for` se utiliza comúnmente para recorrer arrays en Java. También se puede usar el `while` o incluso el `do-while`
 
 4. Respuesta correcta: a) ==
    - El operador `==` se utiliza para la igualdad en Java, mientras que `=` se utiliza para la asignación.
@@ -13,7 +13,7 @@
 5. Respuesta correcta: c) Scanner
    - La clase `Scanner` se utiliza para tomar la entrada del usuario en Java.
 
-6. Respuesta correcta: b) 2
+6. Respuesta correcta: b) 1
    - El operador `%` devuelve el resto de la división de 7 por 3, que es 1.
 
 7. Respuesta correcta: a) "Hola, Mundo"
