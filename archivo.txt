@@ -1,3 +1,0 @@
-Hola desde archivo.txt :)
-Línea 2
-Lorem ipsum
