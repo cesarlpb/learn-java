@@ -16,7 +16,7 @@ public class escribirTxt {
 
             System.out.println("Línea guardada en el 'log.txt' correctamente.");
         } catch (IOException e) {
-            System.err.println("Error al guardar en el log: " + e.getMessage());
+            System.err.println("Error al guardar en el log: Revisa el nombre del archivo." + e.getMessage() );
         }
         scanner.close();
     }
